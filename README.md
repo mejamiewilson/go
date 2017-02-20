@@ -1,0 +1,2 @@
+# go
+Sample Go Project
